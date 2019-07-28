@@ -1,5 +1,6 @@
 # FIREFLY-SYNC
 A simple program of synchronous flashing of fireflies.
+This is based on Non-linear dynamics.
 
 ## <p align="center"><img src="./firefly.gif"></p>
 
